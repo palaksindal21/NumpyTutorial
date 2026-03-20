@@ -12,3 +12,5 @@ This repository includes:
 5.Statistical operations
 6.Sorting and searching
 7.Broadcasting
+8.Linear algebra operations
+9.Random number generation
